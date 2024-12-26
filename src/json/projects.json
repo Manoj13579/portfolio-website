@@ -1,0 +1,55 @@
+[
+  {
+    "Name": "E-Shop:Dynamic Online Store Powered by MERN Stack",
+    "Desc": "A fully-featured eCommerce platform. It includes user authentication with jwt and google, product management, payment with paypal, admin dashboard, real-time updates and many more for a seamless shopping experience",
+    "GithubLink": "https://github.com/Manoj13579/ecommerce-clone-mern",
+    "Demo": "https://ecommerce-clone-mern-frontend.onrender.com",
+    "ImgSrc": "./project1.png"
+  },
+
+  {
+    "Name": "Epic Escapes: The Ultimate Home Rental Experience Application",
+    "Desc":"It is a platform for booking the perfect rental property. With a wide selection of homes for short-term stays or long-term leases, users can easily browse, filter, and secure their ideal space. Enjoy a stress-free booking experience with curated options tailored to every need",
+    "GithubLink": "https://github.com/Manoj13579/epic-escapes",
+    "Demo": "https://epic-escapes-frontend.onrender.com",
+    "ImgSrc": "./project2.png"
+  },
+
+  {
+    "Name": "InfoGenius: AI-Powered Knowledge Hub",
+    "Desc": "It is an intelligent conversational platform powered by Gemini, offering instant, accurate answers and insightful discussions. Explore a seamless user experience that blends cutting-edge AI with expert-level information retrieval.",
+    "GithubLink": "https://github.com/Manoj13579/info-genius",
+    "Demo": "https://info-genius-frontend.onrender.com",
+    "ImgSrc": "./project3.png"
+  },
+
+  {
+    "Name": " AI Translator Powered by Gemini AI",
+    "Desc": "It offers fast, accurate, and seamless translation across multiple languages using cutting-edge AI technology. Leverage the power of Gemini's advanced algorithms for smooth, real-time communication in any language.",
+    "GithubLink": "https://github.com/Manoj13579/info-genius",
+    "Demo": "https://info-genius-frontend.onrender.com",
+    "ImgSrc": "./project4.png"
+  },
+
+  {
+    "Name": "Coin Pulse: Track, Analyze, and Monitor Crypto Prices",
+    "Desc": "It offers real-time cryptocurrency price tracking. Easily analyze and monitor market trends to stay informed and make smarter investment decisions. it helps you track price fluctuations and stay up-to-date on the latest crypto market movements.",
+    "GithubLink": "https://github.com/Manoj13579/coin-pulse",
+    "Demo": "https://elegant-moxie-73e3db.netlify.app",
+    "ImgSrc": "./project5.png"
+  },
+  {
+    "Name": "Generate Hilarious Memes on the Fly",
+    "Desc": "Quickly create and customize memes with a user-friendly interface. Unleash your creativity and share laughter in seconds! Choose from a variety of templates to craft the perfect meme for any moment.",
+    "GithubLink": "https://github.com/Manoj13579/meme-generator",
+    "Demo": "https://cool-meme-generate.netlify.app",
+    "ImgSrc": "./project6.png"
+  },
+  {
+    "Name": "Drive Away in Style with Buy Car",
+    "Desc": "It offers a curated selection of top-quality vehicles to suit every lifestyle and budget. Our seamless buying experience ensures you find the perfect car with ease. Drive away in style today and make every journey unforgettable",
+    "GithubLink": "https://github.com/Manoj13579/car-showroom-landing-page",
+    "Demo": "https://comforting-duckanoo-c53f53.netlify.app",
+    "ImgSrc": "./project7.png"
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "name": "HTML",
+    "path": "./HTML.svg"
+  },
+  {
+    "name": "CSS",
+    "path": "./css.svg"
+  },
+  {
+    "name": "Bootstrap",
+    "path": "./bootstrap-5-1.svg"
+  },
+  {
+    "name": "Tailwind",
+    "path": "./tailwind-css-2.svg"
+  },
+  {
+    "name": "JavaScript",
+    "path": "./javascript.svg"
+  },
+  {
+    "name": "React",
+    "path": "./react.svg"
+  },
+  {
+    "name": "Figma",
+    "path": "./figma.svg"
+  },
+  {
+    "name": "Node.js",
+    "path": "./nodejs-icon.svg"
+  },
+  {
+    "name": "Express JS",
+    "path": "./icons8-express-js.svg"
+  },
+  
+  {
+    "name": "Git & Github",
+    "path": "./github.svg"
+  },
+  
+  {
+    "name": "Postman",
+    "path": "./postman.svg"
+  },
+  {
+    "name": "VS Code",
+    "path": "./visual-studio-code.svg"
+  },
+  {
+    "name": "Cloudinary",
+    "path": "./cloudinary.png"
+  },
+  {
+    "name": "Firebase",
+    "path": "./firebase.png"
+  },
+  {
+    "name": "Netlify",
+    "path": "./netlify.png"
+  },
+  {
+    "name": "Redux Toolkit",
+    "path": "./reduxtoolkit.png"
+  },
+  {
+    "name": "Render",
+    "path": "./render.png"
+  },
+  {
+    "name": "Google Cloud",
+    "path": "./googlecloud.png"
+  }
+]
