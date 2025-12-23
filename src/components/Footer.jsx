@@ -22,7 +22,7 @@ export default function Footer() {
           </li>
 
           <li>
-            <a href="https://www.linkedin.com" target="_blank">
+            <a href="https://www.linkedin.com/in/manojlamsal" target="_blank">
               <i className="fa-brands fa-linkedin socials-icon  text-white"></i>
             </a>
           </li>

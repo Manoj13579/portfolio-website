@@ -1,5 +1,41 @@
 [
   {
+    "name": "MongoDB",
+    "path": "./mongodb.png"
+  },
+  {
+    "name": "Express JS",
+    "path": "./icons8-express-js.svg"
+  },
+   {
+    "name": "React",
+    "path": "./react.svg"
+  },
+  {
+    "name": "Node.js",
+    "path": "./nodejs-icon.svg"
+  },
+  {
+    "name": "Next.js",
+    "path": "./nextjs.png"
+  },
+  {
+    "name": "TypeScript",
+    "path": "./typescript.webp"
+  },
+  {
+    "name": "Socket.io",
+    "path": "./socket.png"
+  },
+  {
+    "name": "Tailwind",
+    "path": "./tailwind-css-2.svg"
+  },
+  {
+    "name": "Shadcn UI",
+    "path": "./shadcn.png"
+  },
+  {
     "name": "HTML",
     "path": "./HTML.svg"
   },
@@ -8,39 +44,37 @@
     "path": "./css.svg"
   },
   {
-    "name": "Bootstrap",
-    "path": "./bootstrap-5-1.svg"
-  },
-  {
-    "name": "Tailwind",
-    "path": "./tailwind-css-2.svg"
-  },
-  {
     "name": "JavaScript",
     "path": "./javascript.svg"
   },
   {
-    "name": "React",
-    "path": "./react.svg"
+    "name": "Bootstrap",
+    "path": "./bootstrap-5-1.svg"
   },
   {
-    "name": "Figma",
-    "path": "./figma.svg"
+    "name": "Redux Toolkit",
+    "path": "./reduxtoolkit.png"
   },
   {
-    "name": "Node.js",
-    "path": "./nodejs-icon.svg"
+    "name": "JWT",
+    "path": "./jwt.png"
   },
   {
-    "name": "Express JS",
-    "path": "./icons8-express-js.svg"
+    "name": "OAuth",
+    "path": "./oauth.png"
   },
-  
+  {
+    "name": "REST API",
+    "path": "./restapi.jpg"
+  },
+  {
+    "name": "AI API",
+    "path": "./aiapi.jpg"
+  },
   {
     "name": "Git & Github",
     "path": "./github.svg"
   },
-  
   {
     "name": "Postman",
     "path": "./postman.svg"
@@ -58,17 +92,22 @@
     "path": "./firebase.png"
   },
   {
-    "name": "Netlify",
-    "path": "./netlify.png"
-  },
-  {
-    "name": "Redux Toolkit",
-    "path": "./reduxtoolkit.png"
+    "name": "Figma",
+    "path": "./figma.svg"
   },
   {
     "name": "Render",
     "path": "./render.png"
   },
+  {
+    "name": "Vercel",
+    "path": "./vercel.png"
+  },
+  {
+    "name": "Netlify",
+    "path": "./netlify.png"
+  },
+  
   {
     "name": "Google Cloud",
     "path": "./googlecloud.png"

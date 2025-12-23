@@ -1,5 +1,26 @@
 [
   {
+    "Name": "TransformAI: AI-Powered App for Content Creation",
+    "Desc": "An AI-powered web app designed for content creation and analysis. It offers tools to generate articles, catchy blog titles, create images, image background removal,  analyzes PDF resumes and more. Secure Stripe payments ensure smooth transactions.",
+    "GithubLink": "https://github.com/Manoj13579/transformai",
+    "Demo": "https://transformai-woad.vercel.app",
+    "ImgSrc": "./transformai.png"
+  },
+  {
+    "Name": "Academix: Learn. Manage. Succeed",
+    "Desc": "A modern, all-in-one Learning Management System (LMS) designed to streamline digital education for institutions, educators, and learners. Academix empowers educators to deliver engaging content while giving students a flexible, accessible, and personalized learning experience.",
+    "GithubLink": "https://github.com/Manoj13579/academix",
+    "Demo": "https://academix-fj37.onrender.com",
+    "ImgSrc": "./lms.png"
+  },
+   {
+    "Name": "ShareShot: Image Sharing, Comments & Chat Web App",
+    "Desc": "It is a dynamic web app for effortless image sharing and real-time interaction. Users can upload, share, comment, like posts, and chat with creators or other users. Ideal for photographers, artists, or anyone sharing moments, it offers personalized profiles to manage content and interactions.",
+    "GithubLink": "https://github.com/Manoj13579/shareshot",
+    "Demo": "https://shareshot.netlify.app/",
+    "ImgSrc": "./shareshot.png"
+  },
+  {
     "Name": "E-Shop:Dynamic Online Store Powered by MERN Stack",
     "Desc": "A fully-featured eCommerce platform. It includes user authentication with jwt and google, product management, payment with paypal, admin dashboard, real-time updates and many more for a seamless shopping experience",
     "GithubLink": "https://github.com/Manoj13579/ecommerce-clone-mern",

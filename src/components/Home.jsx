@@ -20,7 +20,7 @@ export default function Home() {
             <i className="fa-solid fa-envelope text-white"></i>
           </a>
         
-          <a href="https://www.linkedin.com/in" target="_blank">
+          <a href="https://www.linkedin.com/in/manojlamsal" target="_blank">
             <i className="fa-brands fa-linkedin text-white"></i>
           </a>
 
