@@ -48,7 +48,7 @@
     "Name": " AI Translator Powered by Gemini AI",
     "Desc": "It offers fast, accurate, and seamless translation across multiple languages using cutting-edge AI technology. Leverage the power of Gemini's advanced algorithms for smooth, real-time communication in any language.",
     "GithubLink": "https://github.com/Manoj13579/info-genius",
-    "Demo": "https://info-genius-frontend.onrender.com",
+    "Demo": "https://info-genius-frontend.onrender.com/gemini-translator",
     "ImgSrc": "./project4.png"
   },
 
