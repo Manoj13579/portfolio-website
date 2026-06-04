@@ -1,27 +1,26 @@
-export default function SkillCard(props) {
+export default function SkillCard({ name, path }) {
   return (
-    <>
-      <div
-        className="container flex flex-col align-center p-5 justify-center"
-        style={{
-          borderRadius: "20px",
-          border: "0.5px solid #334155",
-          minWidth: "9rem",
-          maxWidth: "9rem",
-          height: "9rem",
-        }}
-      >
-        <img
-          src={props.path}
-          alt=""
-          className="text-white mb-2"
-          style={{ height: "3rem", width: "3rem", margin: "8px auto" }}
-        />
+    <div
+      className="
+        flex flex-col items-center justify-center
+        p-4
+        h-36
+        rounded-2xl
+        border border-slate-700
+        bg-transparent
+        transition-transform duration-300
+        hover:scale-105
+      "
+    >
+      <img
+        src={path}
+        alt={name}
+        className="w-12 h-12 sm:w-14 sm:h-14 mb-3 object-contain"
+      />
 
-        <p className="skill-name text-white text-center text-wrap overflow-y-hidden">
-          {props.name}
-        </p>
-      </div>
-    </>
+      <p className="text-white text-center text-sm sm:text-base break-words leading-tight">
+        {name}
+      </p>
+    </div>
   );
 }
