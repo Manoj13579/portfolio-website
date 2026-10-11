@@ -1,5 +1,5 @@
 import CertificationCard from "./CertificateCard";
-import certificates from "../json/certifications.json";
+import {certificates} from "../json/certifications";
 export default function Certifications() {
   return (
     <div>

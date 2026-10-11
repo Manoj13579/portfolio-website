@@ -11,6 +11,25 @@ export default function WorkEx() {
         </h3>
         <div className="timeline mt-6">
           <div className="timeline-container">
+
+            <div className="timeline-block timeline-block-left">
+              <div className="marker"></div>
+              <div className="timeline-content">
+                <h3 className="text-rose-600">Full Stack Node.js Developer</h3>
+                <span className="text-white">Anubhabi Technologies</span>
+                <p className="text-white mb-3">
+                  <em>Sep 2023 - Present</em>
+                </p>
+                <p className="text-gray-400 text-justify">
+                  Built and supported Node.js applications, focusing on
+                  delivering intuitive and scalable solutions for clients.
+                  Technologies: MongoDB, Express.js, React, Node.js. Specialized
+                  in building responsive user interfaces and implementing secure
+                  authentication.
+                </p>
+              </div>
+            </div>
+
             <div className="timeline-block timeline-block-right">
               <div className="marker"></div>
               <div className="timeline-content">
@@ -22,7 +41,7 @@ export default function WorkEx() {
                 <p className="text-gray-400 text-justify">
                   Built and deployed MERN stack applications, focusing on
                   delivering intuitive and scalable solutions for clients.
-                  Technologies: MongoDB, Express.js, React, Node.jsSpecialized
+                  Technologies: MongoDB, Express.js, React, Node.js. Specialized
                   in building responsive user interfaces and implementing secure
                   authentication. Gained positive feedback for delivering
                   high-quality work on time.

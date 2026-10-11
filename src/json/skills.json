@@ -111,5 +111,30 @@
   {
     "name": "Google Cloud",
     "path": "./googlecloud.png"
+  },
+
+  {
+    "name": "Docker",
+    "path": "./docker.png"
+  },
+
+  {
+    "name": "Tanstack Query",
+    "path": "./tanstack_query.png"
+  },
+
+  {
+    "name": "Zod",
+    "path": "./zod.png"
+  },
+
+  {
+    "name": "NeonDB",
+    "path": "./neon_db.png"
+  },
+
+  {
+    "name": "Prisma",
+    "path": "./prisma.png"
   }
 ]

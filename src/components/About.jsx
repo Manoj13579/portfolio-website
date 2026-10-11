@@ -48,7 +48,7 @@ export default function About() {
               wordWrap: "break-word",
             }}
           >
-            Based in Kathmandu, Nepal with a passion for building scalable and
+            Based in Kathmandu, Nepal with 3+ years of experience as a full-stack developer and a passion for building scalable and
             user-friendly web applications. After immersing myself in online
             courses and hands-on projects, I’ve developed strong expertise in
             React, Node.js, Express.js, MongoDB, Next.js, Typescript along with a
@@ -63,10 +63,8 @@ export default function About() {
               wordWrap: "break-word",
             }}
           >
-            I’ve worked on a range of personal projects, including an e-commerce
-            app, LMS, AI app, an AI chatbot using the Gemini API and others. I
-            also built a responsive landing page for a startup to enhance their
-            online presence. These projects have honed my skills in full-stack
+            I’ve worked on software company, freelancing platform and a range of personal projects, including an e-commerce
+            app, LMS, AI app, an AI chatbot using the Gemini API and others. These projects have honed my skills in full-stack
             development, API integrations, user authentication, and creating
             smooth, interactive user experiences. I thrive on problem-solving
             and enjoy turning ideas into fully functional web applications.
